@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mainProject", "helloworld\mainProject.csproj", "{D4F716B0-B325-4A68-B9A9-E35557F8A778}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoStuff", "DoStuff\DoStuff.csproj", "{A95634BE-9DBF-4FB6-B0C5-46F9CB73031D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehicles", "Vehicles\Vehicles.csproj", "{4C508C19-15E7-4676-B605-D3B423B88587}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C508C19-15E7-4676-B605-D3B423B88587}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4C508C19-15E7-4676-B605-D3B423B88587}.Debug|x86.Build.0 = Debug|Any CPU
+		{4C508C19-15E7-4676-B605-D3B423B88587}.Release|x86.ActiveCfg = Release|Any CPU
+		{4C508C19-15E7-4676-B605-D3B423B88587}.Release|x86.Build.0 = Release|Any CPU
+		{A95634BE-9DBF-4FB6-B0C5-46F9CB73031D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A95634BE-9DBF-4FB6-B0C5-46F9CB73031D}.Debug|x86.Build.0 = Debug|Any CPU
+		{A95634BE-9DBF-4FB6-B0C5-46F9CB73031D}.Release|x86.ActiveCfg = Release|Any CPU
+		{A95634BE-9DBF-4FB6-B0C5-46F9CB73031D}.Release|x86.Build.0 = Release|Any CPU
+		{D4F716B0-B325-4A68-B9A9-E35557F8A778}.Debug|x86.ActiveCfg = Debug|x86
+		{D4F716B0-B325-4A68-B9A9-E35557F8A778}.Debug|x86.Build.0 = Debug|x86
+		{D4F716B0-B325-4A68-B9A9-E35557F8A778}.Release|x86.ActiveCfg = Release|x86
+		{D4F716B0-B325-4A68-B9A9-E35557F8A778}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = helloworld\mainProject.csproj
+	EndGlobalSection
+EndGlobal
