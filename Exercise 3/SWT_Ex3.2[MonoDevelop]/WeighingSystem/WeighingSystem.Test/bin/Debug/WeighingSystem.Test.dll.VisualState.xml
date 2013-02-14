@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1004]Z:\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 3\SWT_Ex3.2\WeighingSystem\WeighingSystem.Test\bin\Debug\WeighingSystem.Test.dll</TopNode>
+  <SelectedNode>[0-1001]WeighingSystem.Test.DisplayTest.Columns_GetProperty_SimpleValue</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1004]Z:\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 3\SWT_Ex3.2\WeighingSystem\WeighingSystem.Test\bin\Debug\WeighingSystem.Test.dll" Expanded="true" />
+    <Node UniqueName="[0-1005]WeighingSystem" Expanded="true" />
+    <Node UniqueName="[0-1006]WeighingSystem.Test" Expanded="true" />
+    <Node UniqueName="[0-1000]WeighingSystem.Test.DisplayTest" Expanded="true" />
+    <Node UniqueName="[0-1002]WeighingSystem.Test.WeighingUnitTest" Expanded="true" />
+  </Nodes>
+</VisualState>
