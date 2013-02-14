@@ -1,0 +1,20 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace WeighingSystem
+{
+    public class Printer : LoggingObject
+    {
+        public Printer(Log log) : base(log)
+        {
+        }
+
+        public void PrintLabel(string text)     // (*) IPrinter
+        {
+            if (DoLog)
+                Logger.LogMsg(String.Format("Printing label \"{0}\"",text));
+        }
+    }
+}

@@ -1,0 +1,7 @@
+Z:\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 3\SWT_Ex3.2\WeighingSystem\Main\bin\Debug\Main.exe
+Z:\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 3\SWT_Ex3.2\WeighingSystem\Main\bin\Debug\Main.pdb
+Z:\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 3\SWT_Ex3.2\WeighingSystem\Main\bin\Debug\WeighingSystem.dll
+Z:\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 3\SWT_Ex3.2\WeighingSystem\Main\bin\Debug\WeighingSystem.pdb
+Z:\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 3\SWT_Ex3.2\WeighingSystem\Main\obj\x86\Debug\Main.csprojResolveAssemblyReference.cache
+Z:\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 3\SWT_Ex3.2\WeighingSystem\Main\obj\x86\Debug\Main.exe
+Z:\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 3\SWT_Ex3.2\WeighingSystem\Main\obj\x86\Debug\Main.pdb
