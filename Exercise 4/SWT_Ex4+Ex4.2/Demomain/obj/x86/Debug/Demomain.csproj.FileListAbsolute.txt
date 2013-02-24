@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 4\SWT_Ex4\Demomain\bin\Debug\Demomain.exe
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 4\SWT_Ex4\Demomain\bin\Debug\Demomain.pdb
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 4\SWT_Ex4\Demomain\bin\Debug\Calculator.dll
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 4\SWT_Ex4\Demomain\bin\Debug\Calculator.pdb
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 4\SWT_Ex4\Demomain\obj\x86\Debug\Demomain.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 4\SWT_Ex4\Demomain\obj\x86\Debug\Demomain.exe
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 4\SWT_Ex4\Demomain\obj\x86\Debug\Demomain.pdb

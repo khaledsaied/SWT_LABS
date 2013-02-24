@@ -3,9 +3,29 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Vehicles/Vehicles.cs">
     <Files>
       <File FileName="Vehicles/Vehicles.cs" Line="30" Column="19" />
-      <File FileName="helloworld/Main.cs" Line="17" Column="1" />
       <File FileName="DoStuff/DoStuff.cs" Line="5" Column="29" />
+      <File FileName="helloworld/Main.cs" Line="17" Column="1" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="DoStuff" expanded="True" />
+          <Node name="mainProject" expanded="True" />
+          <Node name="Vehicles" expanded="True">
+            <Node name="Vehicles.cs" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State selected="True" />
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

@@ -1,0 +1,5 @@
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 4\SWT_Ex4\Calculator\bin\Debug\Calculator.dll
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 4\SWT_Ex4\Calculator\bin\Debug\Calculator.pdb
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 4\SWT_Ex4\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 4\SWT_Ex4\Calculator\obj\Debug\Calculator.dll
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 4\SWT_Ex4\Calculator\obj\Debug\Calculator.pdb

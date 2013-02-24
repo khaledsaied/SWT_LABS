@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1015]Z:\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 4\SWT_Ex4\Calculator.Tests.Unit\bin\Debug\Calculator.Tests.Unit.dll</TopNode>
+  <SelectedNode>[0-1014]Calculator.Tests.Unit.StackCalculatorTests.Index_IndexOutOfRange_ThrowsException</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1015]Z:\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 4\SWT_Ex4\Calculator.Tests.Unit\bin\Debug\Calculator.Tests.Unit.dll" Expanded="true" />
+    <Node UniqueName="[0-1016]Calculator" Expanded="true" />
+    <Node UniqueName="[0-1017]Calculator.Tests" Expanded="true" />
+    <Node UniqueName="[0-1018]Calculator.Tests.Unit" Expanded="true" />
+    <Node UniqueName="[0-1000]Calculator.Tests.Unit.StackCalculatorTests" Expanded="true" />
+  </Nodes>
+</VisualState>
