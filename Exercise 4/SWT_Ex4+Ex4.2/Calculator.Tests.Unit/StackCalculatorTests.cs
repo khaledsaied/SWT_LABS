@@ -151,7 +151,6 @@ namespace Calculator.Tests.Unit
             calc.Push(200);
             calc.Swap();
             Expect(calc.Pop(), Is.EqualTo(100));
-            Expect(calc.Pop(), Is.EqualTo(200));
         }
 
         [Test]
@@ -171,8 +170,6 @@ namespace Calculator.Tests.Unit
             calc.Push(40);
             calc.RotateUp();
             Assert.AreEqual(calc.Pop(),30);
-            Assert.AreEqual(calc.Pop(),20);
-            Assert.AreEqual(calc.Pop(),40);
        }
 
         [Test]
@@ -186,9 +183,6 @@ namespace Calculator.Tests.Unit
             calc.Push(50);
             calc.RotateDown();
             Assert.AreEqual(calc.Pop(),20);
-            Expect(calc.Pop(),Is.EqualTo(50));
-            Expect(calc.Pop(),Is.EqualTo(40));
-            Expect(calc.Pop(),Is.EqualTo(30));
         }
 
     }

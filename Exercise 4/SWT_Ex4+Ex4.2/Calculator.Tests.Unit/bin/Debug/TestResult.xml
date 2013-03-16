@@ -1,19 +1,37 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!--This file represents the results of running a test suite-->
-<test-results name="Z:\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 4\SWT_Ex4\Calculator.Tests.Unit\bin\Debug\Calculator.Tests.Unit.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-02-21" time="23:06:22">
+<test-results name="Z:\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 4\SWT_Ex4+Ex4.2\Calculator.Tests.Unit\bin\Debug\Calculator.Tests.Unit.dll" total="19" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2013-02-25" time="12:15:48">
   <environment nunit-version="2.6.2.12296" clr-version="2.0.50727.5466" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.2\bin" machine-name="KHALED-PC" user="Khaled" user-domain="Khaled-PC" />
   <culture-info current-culture="da-DK" current-uiculture="en-US" />
-  <test-suite type="Assembly" name="Z:\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 4\SWT_Ex4\Calculator.Tests.Unit\bin\Debug\Calculator.Tests.Unit.dll" executed="True" result="Success" success="True" time="0.078" asserts="0">
+  <test-suite type="Assembly" name="Z:\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 4\SWT_Ex4+Ex4.2\Calculator.Tests.Unit\bin\Debug\Calculator.Tests.Unit.dll" executed="True" result="Success" success="True" time="0.471" asserts="0">
     <results>
-      <test-suite type="Namespace" name="Calculator" executed="True" result="Success" success="True" time="0.062" asserts="0">
+      <test-suite type="Namespace" name="Calculator" executed="True" result="Success" success="True" time="0.435" asserts="0">
         <results>
-          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.062" asserts="0">
+          <test-suite type="Namespace" name="Tests" executed="True" result="Success" success="True" time="0.434" asserts="0">
             <results>
-              <test-suite type="Namespace" name="Unit" executed="True" result="Success" success="True" time="0.062" asserts="0">
+              <test-suite type="Namespace" name="Unit" executed="True" result="Success" success="True" time="0.434" asserts="0">
                 <results>
-                  <test-suite type="TestFixture" name="StackCalculatorTests" executed="True" result="Success" success="True" time="0.062" asserts="0">
+                  <test-suite type="TestFixture" name="StackCalculatorTests" executed="True" result="Success" success="True" time="0.431" asserts="0">
                     <results>
-                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.Index_IndexOutOfRange_ThrowsException" executed="True" result="Success" success="True" time="0.031" asserts="0" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.Add_AddingValues_ValuesAdded" executed="True" result="Success" success="True" time="0.117" asserts="1" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.Add_AddingWhereStackCountIsLessThanTwo_ThrowsException" executed="True" result="Success" success="True" time="0.058" asserts="1" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.Clear_ClearingData_DataCleared" executed="True" result="Success" success="True" time="0.002" asserts="1" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.Div_DivideByZero_ThrowsException" executed="True" result="Success" success="True" time="0.019" asserts="1" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.Div_DividingValues_ValuesDivided" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.Div_DividingWhereStackCountIsLessThanTwo_ThrowsException" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.Index_IndexOutOfRange_ThrowsException" executed="True" result="Success" success="True" time="0.082" asserts="0" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.Index_ReturningValue_ValueReturned" executed="True" result="Success" success="True" time="0.006" asserts="1" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.Mul_MultiplyingValues_ValuesMultiplied" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.Mul_MultiplyingWhereStackCountIsLessThanTwo_ThrowsException" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.Pop_InvalidMessage_PopsValueInEmptyStack_ThrowsException" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.Pop_PopsValue_ValuePopped" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.Push_PushingValue_ValuePushed" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.RotateDown_MoveDownValues_ValuesMovedDown" executed="True" result="Success" success="True" time="0.034" asserts="4" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.RotateUp_MoveUpValues_ValuesMovedUp" executed="True" result="Success" success="True" time="0.001" asserts="3" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.Sub_SubstractingValues_ValuesSubstracted" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.Sub_SubstractingWhereStackCountIsLessThanTwo_ThrowsException" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.Swap_InvalidOperation_ThrowsException" executed="True" result="Success" success="True" time="0.001" asserts="1" />
+                      <test-case name="Calculator.Tests.Unit.StackCalculatorTests.Swap_SwapValues_ValuesSwaped" executed="True" result="Success" success="True" time="0.001" asserts="2" />
                     </results>
                   </test-suite>
                 </results>

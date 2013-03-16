@@ -1,0 +1,16 @@
+C:\# OFFLINE WORK\Courses\I4SWT1\EXERCISES\Dependencies and Seams\WeighingSystem\WeighingSystemTest\bin\Debug\WeighingSystemTest.exe
+C:\# OFFLINE WORK\Courses\I4SWT1\EXERCISES\Dependencies and Seams\WeighingSystem\WeighingSystemTest\bin\Debug\WeighingSystemTest.pdb
+C:\# OFFLINE WORK\Courses\I4SWT1\EXERCISES\Dependencies and Seams\WeighingSystem\WeighingSystemTest\bin\Debug\WeighingSystem.dll
+C:\# OFFLINE WORK\Courses\I4SWT1\EXERCISES\Dependencies and Seams\WeighingSystem\WeighingSystemTest\bin\Debug\WeighingSystem.pdb
+C:\# OFFLINE WORK\Courses\I4SWT1\EXERCISES\Dependencies and Seams\WeighingSystem\WeighingSystemTest\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\# OFFLINE WORK\Courses\I4SWT1\EXERCISES\Dependencies and Seams\WeighingSystem\WeighingSystemTest\obj\x86\Debug\WeighingSystemTest.exe
+C:\# OFFLINE WORK\Courses\I4SWT1\EXERCISES\Dependencies and Seams\WeighingSystem\WeighingSystemTest\obj\x86\Debug\WeighingSystemTest.pdb
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 5\WeighingSystem\WeighingSystemTest\obj\x86\Debug\WeighingSystemTest.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 5\WeighingSystem\WeighingSystemTest\obj\x86\Debug\WeighingSystemTest.exe
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 5\WeighingSystem\WeighingSystemTest\bin\Debug\WeighingSystemTest.exe
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 5\WeighingSystem\WeighingSystemTest\bin\Debug\WeighingSystemTest.pdb
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 5\WeighingSystem\WeighingSystemTest\bin\Debug\WeighingSystem.dll
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 5\WeighingSystem\WeighingSystemTest\bin\Debug\WeighingSystem.pdb
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 5\WeighingSystem\WeighingSystemTest\obj\x86\Debug\WeighingSystemTest.pdb
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 5\WeighingSystem\WeighingSystemTest\bin\Debug\nunit.framework.dll
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 5\WeighingSystem\WeighingSystemTest\bin\Debug\nunit.framework.xml

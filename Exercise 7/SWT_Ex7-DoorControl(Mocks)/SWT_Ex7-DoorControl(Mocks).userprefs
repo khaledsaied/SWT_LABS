@@ -1,0 +1,26 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DoorControl/CardDB.cs">
+    <Files>
+      <File FileName="DoorControl/interfaces.cs" Line="19" Column="26" />
+      <File FileName="DoorControl/DoorControl.cs" Line="5" Column="22" />
+      <File FileName="DoorControl/Door.cs" Line="10" Column="4" />
+      <File FileName="DoorControl/CardDB.cs" Line="12" Column="4" />
+      <File FileName="DoorControl/Beeper.cs" Line="9" Column="45" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="DoorControl" expanded="True">
+            <Node name="CardDB.cs" selected="True" />
+          </Node>
+          <Node name="DoorControl.Test" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

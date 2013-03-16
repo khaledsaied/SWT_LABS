@@ -1,0 +1,10 @@
+C:\# OFFLINE WORK\Courses\I4SWT1\EXERCISES\Dependencies and Seams\WeighingSystem\WeighingSystem\bin\Debug\WeighingSystem.dll
+C:\# OFFLINE WORK\Courses\I4SWT1\EXERCISES\Dependencies and Seams\WeighingSystem\WeighingSystem\bin\Debug\WeighingSystem.pdb
+C:\# OFFLINE WORK\Courses\I4SWT1\EXERCISES\Dependencies and Seams\WeighingSystem\WeighingSystem\obj\Debug\ResolveAssemblyReference.cache
+C:\# OFFLINE WORK\Courses\I4SWT1\EXERCISES\Dependencies and Seams\WeighingSystem\WeighingSystem\obj\Debug\WeighingSystem.dll
+C:\# OFFLINE WORK\Courses\I4SWT1\EXERCISES\Dependencies and Seams\WeighingSystem\WeighingSystem\obj\Debug\WeighingSystem.pdb
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 5\WeighingSystem\WeighingSystem\bin\Debug\WeighingSystem.dll
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 5\WeighingSystem\WeighingSystem\bin\Debug\WeighingSystem.pdb
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 5\WeighingSystem\WeighingSystem\obj\Debug\WeighingSystem.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 5\WeighingSystem\WeighingSystem\obj\Debug\WeighingSystem.dll
+\\vmware-host\Shared Folders\IKT [4. SEMESTER]\SWT\SWT_LABS\Exercise 5\WeighingSystem\WeighingSystem\obj\Debug\WeighingSystem.pdb
