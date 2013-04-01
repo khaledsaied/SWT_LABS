@@ -2,28 +2,36 @@ using System;
 
 namespace DoorControl
 {
-	public class DoorControl : IDoorControl
+	public interface IDoorController
+	{
+		bool ValidateEntryRequest(ICardDB id);		
+		void Open();
+		void Close();
+		void MakeHappyNoise ();
+	}
+
+	public class DoorController : IDoorController
 	{
 		//private bool doorOpened;
 		//void RequestEntry(id){}
 		public Door door = new Door();
-		DoorControl ()
+		DoorController ()
 		{
 			//doorOpened = false; 
 		}
-		bool ValidateEntryRequest(ICardDB id)
+		public bool ValidateEntryRequest(ICardDB id)
 		{
 			return id.ValidateEntryRequest();
 		}
-		void Open()
+		public void Open()
 		{
 			door.DoorState = true;
 		}
-		void Close()
+		public void Close()
 		{
 			door.DoorState = false;
 		}
-		void MakeHappyNoise ()
+		public void MakeHappyNoise ()
 		{
 			Console.WriteLine ("HappyNoise ... !");
 			//Beeper beep;

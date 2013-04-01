@@ -7,7 +7,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{02C343B8-D9F8-4B9B-816D-8A8FF5173A78}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DoorControl</RootNamespace>
+    <RootNamespace>DoorControlSystem</RootNamespace>
     <AssemblyName>DoorControl</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
@@ -35,14 +35,13 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl\AssemblyInfo.cs" />
-    <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl\DoorControl.cs" />
     <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl\Door.cs" />
     <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl\DoorMock.cs" />
     <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl\CardDBMock.cs" />
     <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl\BeeperStub.cs" />
-    <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl\interfaces.cs" />
     <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl\CardDB.cs" />
     <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl\Beeper.cs" />
+    <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl\DoorControl.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

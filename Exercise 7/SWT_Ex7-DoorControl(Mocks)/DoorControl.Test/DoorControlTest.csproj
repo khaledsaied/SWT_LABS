@@ -32,10 +32,23 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
+    <Reference Include="nunit.framework, Version=2.4.8.0, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77">
+      <Private>False</Private>
+    </Reference>
+    <Reference Include="Rhino.Mocks">
+      <HintPath>..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl.Test\Rhino.Mocks.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl.Test\AssemblyInfo.cs" />
     <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl.Test\DoorControlTest.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ItemGroup>
+    <ProjectReference Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl\DoorControlSystem.csproj">
+      <Project>{02C343B8-D9F8-4B9B-816D-8A8FF5173A78}</Project>
+      <Name>DoorControlSystem</Name>
+    </ProjectReference>
+  </ItemGroup>
 </Project>
