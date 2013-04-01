@@ -7,8 +7,8 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{D3B0B70F-0A2F-4805-9ADD-9F0A6BC61887}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>DoorControl.Test</RootNamespace>
-    <AssemblyName>DoorControl.Test</AssemblyName>
+    <RootNamespace>DoorControlTest</RootNamespace>
+    <AssemblyName>DoorControlTest</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
     <DebugSymbols>True</DebugSymbols>
@@ -43,6 +43,7 @@
   <ItemGroup>
     <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl.Test\AssemblyInfo.cs" />
     <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl.Test\DoorControlTest.cs" />
+    <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl.Test\Mocks.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>

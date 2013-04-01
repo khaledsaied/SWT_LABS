@@ -1,21 +1,33 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="DoorControl/CardDB.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DoorControl.Test/DoorControlTest.cs">
     <Files>
-      <File FileName="DoorControl/interfaces.cs" Line="19" Column="26" />
-      <File FileName="DoorControl/DoorControl.cs" Line="5" Column="22" />
-      <File FileName="DoorControl/Door.cs" Line="10" Column="4" />
-      <File FileName="DoorControl/CardDB.cs" Line="12" Column="4" />
-      <File FileName="DoorControl/Beeper.cs" Line="9" Column="45" />
+      <File FileName="DoorControl.Test/Mocks.cs" Line="22" Column="5" />
+      <File FileName="DoorControl.Test/DoorControlTest.cs" Line="16" Column="5" />
+      <File FileName="DoorControl/Door.cs" Line="16" Column="3" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="DoorControl" expanded="True">
-            <Node name="CardDB.cs" selected="True" />
+          <Node name="DoorControlSystem" expanded="True">
+            <Node name="References" expanded="True" />
           </Node>
-          <Node name="DoorControl.Test" expanded="True" />
+          <Node name="DoorControlTest" expanded="True">
+            <Node name="DoorControlTest.cs" selected="True" />
+          </Node>
         </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="ConnectionManagerPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

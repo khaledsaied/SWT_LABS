@@ -1,12 +1,22 @@
 using System;
 
-namespace DoorControl
+namespace DoorControlSystem
 {
-	public class Beeper
+	public interface IBeeper
+	{
+		void MakeHappyNoise ();
+	}
+
+	public class Beeper : IBeeper
 	{
 		public Beeper ()
 		{
-			Console.WriteLine ("Say BEEEEEEPPPP !!!! ");
+		}
+
+		public void MakeHappyNoise ()
+		{
+			Console.WriteLine ("HappyNoise ... !");
+			//Beeper beep;
 		}
 	}
 }

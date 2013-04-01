@@ -8,7 +8,7 @@
     <ProjectGuid>{02C343B8-D9F8-4B9B-816D-8A8FF5173A78}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>DoorControlSystem</RootNamespace>
-    <AssemblyName>DoorControl</AssemblyName>
+    <AssemblyName>DoorControlSystem</AssemblyName>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
     <DebugSymbols>True</DebugSymbols>
@@ -36,7 +36,6 @@
   <ItemGroup>
     <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl\AssemblyInfo.cs" />
     <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl\Door.cs" />
-    <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl\DoorMock.cs" />
     <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl\CardDBMock.cs" />
     <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl\BeeperStub.cs" />
     <Compile Include="..\..\SWT_Ex7-DoorControl%28Mocks%29\DoorControl\CardDB.cs" />

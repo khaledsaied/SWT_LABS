@@ -1,18 +1,31 @@
 using System;
+using System.Collections.Generic;
 
-namespace DoorControl
+namespace DoorControlSystem
 {
+	public interface ICardDB
+	{
+		bool ValidateEntryRequest(int ID);
+	}
+
 	public class CardDB : ICardDB
 	{
-		private int _id;
+		private List<int> IDs;
 		
-		public CardDB (int id)
+		public CardDB ()
 		{
-			_id = id;
+			IDs = new List<int>();
+			for (int i = 0; i < 11; i++)
+			{
+				IDs.Add(i);
+			}
 		}
-		public bool ValidateEntryRequest()
+		public bool ValidateEntryRequest(int ID)
 		{
-			return _id == 1;
+			if (IDs.Contains(ID))
+				return true;
+			else
+				return false;
 		}
 		
 	}

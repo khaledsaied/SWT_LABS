@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorControl", "DoorControl\DoorControl.csproj", "{02C343B8-D9F8-4B9B-816D-8A8FF5173A78}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorControlSystem", "DoorControl\DoorControlSystem.csproj", "{02C343B8-D9F8-4B9B-816D-8A8FF5173A78}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorControl.Test", "DoorControl.Test\DoorControl.Test.csproj", "{D3B0B70F-0A2F-4805-9ADD-9F0A6BC61887}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoorControlTest", "DoorControl.Test\DoorControlTest.csproj", "{D3B0B70F-0A2F-4805-9ADD-9F0A6BC61887}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +21,6 @@ Global
 		{D3B0B70F-0A2F-4805-9ADD-9F0A6BC61887}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
-		StartupItem = DoorControl\DoorControl.csproj
+		StartupItem = DoorControl.Test\DoorControlTest.csproj
 	EndGlobalSection
 EndGlobal

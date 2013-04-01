@@ -1,6 +1,6 @@
 using System;
 
-namespace DoorControl
+namespace DoorControlSystem
 {
 	public class BeeperStub
 	{
